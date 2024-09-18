@@ -4,7 +4,6 @@ import { useParams } from "react-router-dom";
 
 import {
   Container,
-  Button,
   Box,
   Stack,
   Typography,
